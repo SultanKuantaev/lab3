@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "lab1",
+			"path": "../lab1"
+		},
+		{
+			"name": "headfirst",
+			"path": "../headfirst"
+		},
+		{
+			"path": "../lab2"
+		}
+	],
+	"settings": {}
+}
